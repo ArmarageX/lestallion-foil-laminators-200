@@ -1,0 +1,5 @@
+services:
+- type: web
+  name: lestallion-foil-laminators-200
+  runtime: static
+  staticPublishPath: public
